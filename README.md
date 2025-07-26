@@ -18,7 +18,7 @@
 
 - 🎓 **M.Tech (Data Engineering) @ IIT Jodhpur**
 - 💡 **Building AI-powered digital products** that solve real-world business challenges.
-- 💼 **3+ Years in Product & AI Consulting** (Logistics, SaaS, Enterprise, OEMs)
+- 💼 **4+ Years in Product & AI Consulting** (Logistics, SaaS, Enterprise, OEMs)
 - 🔍 **Interested in AI/ML, SaaS, Digital Transformation, & Consulting**
 - 📊 **Data Science Stack:** Python, Pandas, NumPy, Matplotlib, Power BI, SQL
 - ☁ **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Azure (Basic)
